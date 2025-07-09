@@ -50,13 +50,13 @@
 # SickBeard host.
 #
 # The ipaddress for your SickBeard server. e.g For the Same system use localhost or 127.0.0.1
-#sbhost=localhost
+#sbhost="192.168.254.100"
 
 # SickBeard port.
 #sbport=8081
 
 # SickBeard api key. For SickChill and Medusa only.
-#sbapikey=
+#sbapikey=be3145fbd1f308d35a3a65042c1eb5fb
 
 # SickBeard username.
 #sbusername=
@@ -87,12 +87,12 @@
 # SickBeard Delete Failed Downloads (0, 1).
 #
 # set to 1 to delete failed, or 0 to leave files in place.
-#sbdelete_failed=0
+#sbdelete_failed=1
 
 # SickBeard process method.
 #
 # set this to move, copy, hardlink, symlink as appropriate if you want to over-ride SB defaults. Leave blank to use SB default.
-#sbprocess_method=
+#sbprocess_method=move
 
 # SickBeard and NZBGet are a different system (0, 1).
 #
