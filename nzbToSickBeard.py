@@ -50,7 +50,7 @@
 # SickBeard host.
 #
 # The ipaddress for your SickBeard server. e.g For the Same system use localhost or 127.0.0.1
-#sbhost="192.168.254.100"
+#sbhost="medusa"
 
 # SickBeard port.
 #sbport=8081
